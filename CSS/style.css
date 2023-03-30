@@ -130,6 +130,25 @@ footer a{
     margin-left:20px;
     
 }
+.search-form {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  margin-top: 10px;
+}
+
+.search-form input {
+  width: 150px;
+  margin-right: 10px;
+}
+
+.search-form button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  cursor: pointer;
+}
 #about-page #profile-info{
     
     float: right;
