@@ -95,7 +95,7 @@ h2{
 
 #home-image{
     
-    width:10%;
+    width:40%;
 }
 
 footer{
@@ -124,7 +124,7 @@ footer a{
 /********** About Page Styles ************/
 #about-page #home-image img{
     
-    width: 70%;
+    width: 60%;
     float: left;
     margin-bottom: 20px;
     margin-left:20px;
